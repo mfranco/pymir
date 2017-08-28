@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/manuel/src/msc-ucd-2016-ml4music/code","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/project":{"guestpath":"/project","hostpath":"/home/manuel/src/msc-ucd-2016-ml4music","disabled":false,"__vagrantfile":true}}}
